@@ -1,8 +1,7 @@
-
 public class HelloWorld {
 	
 	public String hello(){
-		return "Adiossss";
+		return "Goodbye for good now";
 	}
 
 }
